@@ -1,0 +1,100 @@
+html {
+    background-color: #580505;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+h1{
+    background-color: aqua;
+    color: aliceblue;
+    margin: 30px 20px;
+    padding: 20px 30px;
+    border-width: 10px;
+    border-style: solid;
+    border-color:#8215e7 #17a70a #f3ef06 #e40707;
+
+}
+li {
+    border: 1px solid #000;
+    font-size: 24px; 
+    text-align: left;
+    padding: 5px;
+
+}
+h2 {
+    
+    margin: 10px;
+    padding: 10px 5px;
+    
+
+}
+.mim span {
+    color: #e40707;
+    background-color: #000;
+    font-size: 20px;
+}
+
+
+#descricao {
+    width: 50%;
+    background-color: #17a70a;
+}
+
+.produto {
+    width: 50%;
+    background-color: #f3ef06;
+}
+
+.promocao {
+    width: 50%;
+    border: 3px solid #e40707
+}
+
+.lista {
+    width: 50%;
+    background-color: rgb(209, 111, 204);
+}
+
+.mim {
+    
+    background-color: #8215e7;
+}
+
+.tabela {
+    width: 50%;
+    background-color: aqua;
+}
+
+.pixel {
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+}
+.pixel2 {
+width: 100vw;
+background-color: #17a70a;
+}
+
+.pixel3 {
+    width: 100%;
+    background-color: chartreuse;
+}
+
+.com-border-box {
+background-color: aquamarine;
+width: 100px;
+height: 100px;
+padding: 10px;
+border: 10px solid green;
+box-sizing: border-box;
+}
+.sem-border-box {
+    
+background-color: brown;
+width: 100px;
+height: 100px;
+padding: 10px;
+border: 10px solid green;
+}
+
